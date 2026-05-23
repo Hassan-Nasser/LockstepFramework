@@ -4,9 +4,9 @@ The Lockstep Framework (LSF) is a framework designed for games that need lockste
 
 Special thanks to Liv Games (http://www.livgames.com), 360 Studio (http://www.360studio.me), and Thoopid (http://www.thoopid.com/) for supporting the development of Lockstep Framework. Also, thank you GladFox (https://github.com/GladFox) and the community for helping with development.
 
-Created by John Pan (https://github.com/SnpM).
+Created by John Pan (https://github.com/nibsbin).
 
-NOTE: LSF is no longer being actively developed. The [latest commit](https://github.com/SnpM/LockstepFramework/commit/d7819df4005316d8c0e3148728794f7c2b921a7a) targets Unity 2019.1f1.
+NOTE: LSF is no longer being actively developed. The [latest commit](https://github.com/nibsbin/LockstepFramework/commit/d7819df4005316d8c0e3148728794f7c2b921a7a) targets Unity 2019.1f1.
 
 Features
 ------------------------
@@ -29,9 +29,9 @@ Note: The example only shows the basic functionality of the framework. Comprehen
 
 **Tutorials and more**
 ---------
-To find out more about Lockstep Framework, please explore the wiki (https://github.com/SnpM/LockstepFramework/wiki) and feel free to ask us questions.
+To find out more about Lockstep Framework, please explore the wiki (https://github.com/nibsbin/LockstepFramework/wiki) and feel free to ask us questions.
 
-Check out tutorial series here: https://github.com/SnpM/LockstepFramework/wiki/Tutorial-Series
+Check out tutorial series here: https://github.com/nibsbin/LockstepFramework/wiki/Tutorial-Series
 
 
 License
